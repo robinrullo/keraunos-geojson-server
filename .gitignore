@@ -1,0 +1,13 @@
+# General macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Idea
+/.idea
+
+# node_modules
+/node_modules
+
+# .env
+*.env
